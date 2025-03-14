@@ -1,0 +1,15 @@
+{
+    "name": "gabri/php-task-manager",
+    "autoload": {
+        "psr-4": {
+            "PhpTaskManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Aires",
+            "email": "gvaires@gmail.com"
+        }
+    ],
+    "require": {}
+}
