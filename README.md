@@ -11,7 +11,7 @@ Marcar tarefas como concluídas
 Deletar tarefas
 
 ## Tecnologias Utilizadas
-PHP 8.4.3 - Linguagem principal do projeto
-Laminas Diactoros - Para manipulação de requisições e respostas HTTP
-PSR-4 e PSR-12 - Seguindo padrões recomendados pelo PHP-FIG
-Postman - Para testar as requisições da API
+✅ PHP 8.4.3 - Linguagem principal do projeto </br>
+✅ Laminas Diactoros - Para manipulação de requisições e respostas HTTP
+✅ PSR-4 e PSR-12 - Seguindo padrões recomendados pelo PHP-FIG
+✅ Postman - Para testar as requisições da API
