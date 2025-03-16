@@ -86,14 +86,14 @@ DELETE /tasks/{id}
 * Suporte a Tarefas Recorrentes: Permitir que o usuário crie tarefas recorrentes (diárias, semanais, mensais). </br>
 * Filtros e Ordenação Avançada: Adicionar filtros para status, prioridade e data de vencimento. Implementar ordenação das tarefas.
 
+## ⭐ Curiosidade
+* Esse README foi feito no readme.so
 
 ## 📌 Autor
 👨‍💻 **Gabriel Vaz Aires**  
 💼 [LinkedIn](https://linkedin.com/in/gabrielvazaires)  
 📂 [GitHub](https://github.com/gabrielz11)  
 
-## ⭐ Curiosidade
-📌 Esse README foi feito no readme.so
 ---
 📢 **Gostou do projeto? Deixe uma ⭐ no repositório!**
 
