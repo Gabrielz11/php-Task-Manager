@@ -92,8 +92,8 @@ DELETE /tasks/{id}
 💼 [LinkedIn](https://linkedin.com/in/gabrielvazaires)  
 📂 [GitHub](https://github.com/gabrielz11)  
 
-⭐ Curiosidade
-📌 Esse README foi feito no readme.so.
+## ⭐ Curiosidade
+📌 Esse README foi feito no readme.so
 ---
 📢 **Gostou do projeto? Deixe uma ⭐ no repositório!**
 
