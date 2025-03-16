@@ -1,7 +1,7 @@
 <?php
 //seguindo a PSR-15 para criar middlewares no PHP
 
-namespace TaskManager\Middleware;
+namespace PhpTaskManager\Middleware;
 
 use Psr\Http\Message\ServerRequestInterface;
 use Psr\Http\Message\ResponseInterface;

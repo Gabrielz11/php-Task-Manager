@@ -2,7 +2,7 @@
 //respeitando e seguindo o PSR-4 para a estrutura de diretórios e namespaces do PHP e o PSR-12 para a formatação do código
 //https://www.php-fig.org/psr/psr-4/
 //https://www.php-fig.org/psr/psr-12/
-namespace TaskManager\Models;
+namespace PhpTaskManager\Models;
 
 class Task
 {

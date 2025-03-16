@@ -2,8 +2,8 @@
 
 require '../vendor/autoload.php';
 
-use TaskManager\Controllers\TaskController;
-use TaskManager\Services\TaskService;
+use PhpTaskManager\Controllers\TaskController;
+use PhpTaskManager\Services\TaskService;
 use Laminas\Diactoros\ServerRequestFactory;
 
 $request = ServerRequestFactory::fromGlobals();

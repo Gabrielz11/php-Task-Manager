@@ -3,9 +3,9 @@
 //https://www.php-fig.org/psr/psr-4/
 //https://www.php-fig.org/psr/psr-12/
 
-namespace TaskManager\Services;
+namespace PhpTaskManager\Services;
 
-use TaskManager\Models\Task;
+use PhpTaskManager\Models\Task;
 
 class TaskService
 {

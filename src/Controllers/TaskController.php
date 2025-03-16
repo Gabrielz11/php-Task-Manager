@@ -1,9 +1,9 @@
 <?php
 
-namespace TaskManager\Controllers;
+namespace PhpTaskManager\Controllers;
 
-use TaskManager\Services\TaskService;
-use TaskManager\Models\Task;
+use PhpTaskManager\Services\TaskService;
+use PhpTaskManager\Models\Task;
 use Psr\Http\Message\ServerRequestInterface;
 use Psr\Http\Message\ResponseInterface;
 use Laminas\Diactoros\Response\JsonResponse;
