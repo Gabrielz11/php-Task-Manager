@@ -1,6 +1,7 @@
 <?php
-//aqui estamos realizando o controle com a PSR-4 para namespace e autoload e PSR-12 para padronização de código
-
+//respeitando e seguindo o PSR-4 para a estrutura de diretórios e namespaces do PHP e o PSR-12 para a formatação do código
+//https://www.php-fig.org/psr/psr-4/
+//https://www.php-fig.org/psr/psr-12/
 namespace TaskManager\Models;
 
 class Task
@@ -10,7 +11,7 @@ class Task
     private string $description;
     private bool $completed;
 
-    public function __construct(string $id, string $title, string $description, bool $completed)
+    public function __construct(string $id, string $title, string $description, bool $completed = false)
     {
         $this->id = $id;
         $this->title = $title;

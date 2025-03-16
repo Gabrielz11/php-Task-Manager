@@ -13,7 +13,7 @@ class TaskService
 
     public function addTask(Task $task): void
     {
-        $this->tasks[$task->getId()] = $task;
+        $this->tasks[ $task->getId() ] = $task;
     }
 
     public function getTasks(): array
@@ -23,6 +23,6 @@ class TaskService
 
     public function getTaskId(string $id): ?Task
     {
-        return isset($this->tasks[$id]) ?? null;
+        return $this->tasks[ $id ] ?? null;
     }
 }
