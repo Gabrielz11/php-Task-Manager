@@ -11,5 +11,7 @@
             "email": "gvaires@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "laminas/laminas-diactoros": "^3.5"
+    }
 }
